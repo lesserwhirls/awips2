@@ -1,7 +1,7 @@
-site_name: lesserwhirls AWIPS User Manual
-site_url: http://lesserwhirls.github.io/awips2
+site_name: Unidata AWIPS User Manual
+site_url: https://lesserwhirls.github.io/awips2
 site_description: Documentation for all things AWIPS.
-site_author: mjames@ucar.edu
+site_author: sarms@ucar.edu
 theme: unidata
 repo_url: https://github.com/lesserwhirls/awips2
 edit_uri: edit/unidata_18.1.1/docs/
@@ -20,11 +20,11 @@ extra:
     - type: globe
       link: https://www.unidata.ucar.edu/software/awips2
     - type: github-alt
-      link: https://github.com/lesserwhirls/awips2
+      link: https://github.com/Unidata/awips2
     - type: twitter
-      link: https://twitter.com/lesserwhirls
+      link: https://twitter.com/Unidata
     - type: facebook
-      link: https://facebook.com/lesserwhirls
+      link: https://facebook.com/Unidata
 
 pages:
 - Home: index.md
@@ -100,4 +100,4 @@ markdown_extensions:
         permalink: 
     - admonition:
 
-copyright: Copyright &copy; 2018 lesserwhirls Program Center.
+copyright: Copyright &copy; 2017 Unidata Program Center.
