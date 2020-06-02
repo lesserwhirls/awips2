@@ -1,257 +1,257 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-     <loc>http://unidata.github.io/awips2/</loc>
+     <loc>http://lesserwhirls.github.io/awips2/</loc>
      <lastmod>2019-03-21</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>http://unidata.github.io/awips2/install/install-cave/</loc>
+     <loc>http://lesserwhirls.github.io/awips2/install/install-cave/</loc>
      <lastmod>2019-03-21</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>http://unidata.github.io/awips2/install/install-edex/</loc>
+     <loc>http://lesserwhirls.github.io/awips2/install/install-edex/</loc>
      <lastmod>2019-03-21</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>http://unidata.github.io/awips2/cave/d2d-perspective/</loc>
+     <loc>http://lesserwhirls.github.io/awips2/cave/d2d-perspective/</loc>
      <lastmod>2019-03-21</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>http://unidata.github.io/awips2/cave/maps-views-projections/</loc>
+     <loc>http://lesserwhirls.github.io/awips2/cave/maps-views-projections/</loc>
      <lastmod>2019-03-21</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>http://unidata.github.io/awips2/cave/bundles-and-procedures/</loc>
+     <loc>http://lesserwhirls.github.io/awips2/cave/bundles-and-procedures/</loc>
      <lastmod>2019-03-21</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>http://unidata.github.io/awips2/cave/localization-perspective/</loc>
+     <loc>http://lesserwhirls.github.io/awips2/cave/localization-perspective/</loc>
      <lastmod>2019-03-21</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>http://unidata.github.io/awips2/cave/ncp-perspective/</loc>
+     <loc>http://lesserwhirls.github.io/awips2/cave/ncp-perspective/</loc>
      <lastmod>2019-03-21</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>http://unidata.github.io/awips2/cave/nsharp/</loc>
+     <loc>http://lesserwhirls.github.io/awips2/cave/nsharp/</loc>
      <lastmod>2019-03-21</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>http://unidata.github.io/awips2/cave/warngen/</loc>
+     <loc>http://lesserwhirls.github.io/awips2/cave/warngen/</loc>
      <lastmod>2019-03-21</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>http://unidata.github.io/awips2/cave/goes-16-satellite/</loc>
+     <loc>http://lesserwhirls.github.io/awips2/cave/goes-16-satellite/</loc>
      <lastmod>2019-03-21</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>http://unidata.github.io/awips2/cave/d2d-gis-shapefiles/</loc>
+     <loc>http://lesserwhirls.github.io/awips2/cave/d2d-gis-shapefiles/</loc>
      <lastmod>2019-03-21</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>http://unidata.github.io/awips2/cave/d2d-gridded-models/</loc>
+     <loc>http://lesserwhirls.github.io/awips2/cave/d2d-gridded-models/</loc>
      <lastmod>2019-03-21</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>http://unidata.github.io/awips2/cave/d2d-tools/</loc>
+     <loc>http://lesserwhirls.github.io/awips2/cave/d2d-tools/</loc>
      <lastmod>2019-03-21</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>http://unidata.github.io/awips2/cave/d2d-radar-tools/</loc>
+     <loc>http://lesserwhirls.github.io/awips2/cave/d2d-radar-tools/</loc>
      <lastmod>2019-03-21</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>http://unidata.github.io/awips2/cave/d2d-edit-menus/</loc>
+     <loc>http://lesserwhirls.github.io/awips2/cave/d2d-edit-menus/</loc>
      <lastmod>2019-03-21</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>http://unidata.github.io/awips2/cave/cave-localization/</loc>
+     <loc>http://lesserwhirls.github.io/awips2/cave/cave-localization/</loc>
      <lastmod>2019-03-21</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>http://unidata.github.io/awips2/cave/import-export/</loc>
+     <loc>http://lesserwhirls.github.io/awips2/cave/import-export/</loc>
      <lastmod>2019-03-21</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>http://unidata.github.io/awips2/install/start-edex/</loc>
+     <loc>http://lesserwhirls.github.io/awips2/install/start-edex/</loc>
      <lastmod>2019-03-21</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>http://unidata.github.io/awips2/edex/settings/</loc>
+     <loc>http://lesserwhirls.github.io/awips2/edex/settings/</loc>
      <lastmod>2019-03-21</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>http://unidata.github.io/awips2/edex/distributed-computing/</loc>
+     <loc>http://lesserwhirls.github.io/awips2/edex/distributed-computing/</loc>
      <lastmod>2019-03-21</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>http://unidata.github.io/awips2/edex/edex-ingest-docker-container/</loc>
+     <loc>http://lesserwhirls.github.io/awips2/edex/edex-ingest-docker-container/</loc>
      <lastmod>2019-03-21</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>http://unidata.github.io/awips2/edex/ldm/</loc>
+     <loc>http://lesserwhirls.github.io/awips2/edex/ldm/</loc>
      <lastmod>2019-03-21</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>http://unidata.github.io/awips2/edex/data-distribution-files/</loc>
+     <loc>http://lesserwhirls.github.io/awips2/edex/data-distribution-files/</loc>
      <lastmod>2019-03-21</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>http://unidata.github.io/awips2/edex/new-grid/</loc>
+     <loc>http://lesserwhirls.github.io/awips2/edex/new-grid/</loc>
      <lastmod>2019-03-21</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>http://unidata.github.io/awips2/edex/data-purge/</loc>
+     <loc>http://lesserwhirls.github.io/awips2/edex/data-purge/</loc>
      <lastmod>2019-03-21</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>http://unidata.github.io/awips2/edex/edex-users/</loc>
+     <loc>http://lesserwhirls.github.io/awips2/edex/edex-users/</loc>
      <lastmod>2019-03-21</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>http://unidata.github.io/awips2/edex/data-plugins/</loc>
+     <loc>http://lesserwhirls.github.io/awips2/edex/data-plugins/</loc>
      <lastmod>2019-03-21</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>http://unidata.github.io/awips2/edex/case-studies/</loc>
+     <loc>http://lesserwhirls.github.io/awips2/edex/case-studies/</loc>
      <lastmod>2019-03-21</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>http://unidata.github.io/awips2/cave/d2d-grids/</loc>
+     <loc>http://lesserwhirls.github.io/awips2/cave/d2d-grids/</loc>
      <lastmod>2019-03-21</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>http://unidata.github.io/awips2/cave/d2d-pointdata-surface-obs/</loc>
+     <loc>http://lesserwhirls.github.io/awips2/cave/d2d-pointdata-surface-obs/</loc>
      <lastmod>2019-03-21</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>http://unidata.github.io/awips2/cave/d2d-satellite/</loc>
+     <loc>http://lesserwhirls.github.io/awips2/cave/d2d-satellite/</loc>
      <lastmod>2019-03-21</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>http://unidata.github.io/awips2/cave/d2d-radar/</loc>
+     <loc>http://lesserwhirls.github.io/awips2/cave/d2d-radar/</loc>
      <lastmod>2019-03-21</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>http://unidata.github.io/awips2/cave/d2d-uair/</loc>
+     <loc>http://lesserwhirls.github.io/awips2/cave/d2d-uair/</loc>
      <lastmod>2019-03-21</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>http://unidata.github.io/awips2/cave/d2d-hydro/</loc>
+     <loc>http://lesserwhirls.github.io/awips2/cave/d2d-hydro/</loc>
      <lastmod>2019-03-21</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>http://unidata.github.io/awips2/cave/d2d-map-resources/</loc>
+     <loc>http://lesserwhirls.github.io/awips2/cave/d2d-map-resources/</loc>
      <lastmod>2019-03-21</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>http://unidata.github.io/awips2/python/python-awips-data-access/</loc>
+     <loc>http://lesserwhirls.github.io/awips2/python/python-awips-data-access/</loc>
      <lastmod>2019-03-21</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>http://unidata.github.io/awips2/python/awips-grids-and-cartopy/</loc>
+     <loc>http://lesserwhirls.github.io/awips2/python/awips-grids-and-cartopy/</loc>
      <lastmod>2019-03-21</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>http://unidata.github.io/awips2/python/satellite-imagery/</loc>
+     <loc>http://lesserwhirls.github.io/awips2/python/satellite-imagery/</loc>
      <lastmod>2019-03-21</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>http://unidata.github.io/awips2/python/nexrad-level-3-radar/</loc>
+     <loc>http://lesserwhirls.github.io/awips2/python/nexrad-level-3-radar/</loc>
      <lastmod>2019-03-21</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>http://unidata.github.io/awips2/python/upper-air-bufr-soundings/</loc>
+     <loc>http://lesserwhirls.github.io/awips2/python/upper-air-bufr-soundings/</loc>
      <lastmod>2019-03-21</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>http://unidata.github.io/awips2/python/model-sounding-data/</loc>
+     <loc>http://lesserwhirls.github.io/awips2/python/model-sounding-data/</loc>
      <lastmod>2019-03-21</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>http://unidata.github.io/awips2/python/map-resources-and-topography/</loc>
+     <loc>http://lesserwhirls.github.io/awips2/python/map-resources-and-topography/</loc>
      <lastmod>2019-03-21</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>http://unidata.github.io/awips2/python/surface-obs-plot-metpy/</loc>
+     <loc>http://lesserwhirls.github.io/awips2/python/surface-obs-plot-metpy/</loc>
      <lastmod>2019-03-21</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>http://unidata.github.io/awips2/dev/awips-development-environment/</loc>
+     <loc>http://lesserwhirls.github.io/awips2/dev/awips-development-environment/</loc>
      <lastmod>2019-03-21</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>http://unidata.github.io/awips2/appendix/appendix-grid-parameters/</loc>
+     <loc>http://lesserwhirls.github.io/awips2/appendix/appendix-grid-parameters/</loc>
      <lastmod>2019-03-21</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>http://unidata.github.io/awips2/python/maps-database/</loc>
+     <loc>http://lesserwhirls.github.io/awips2/python/maps-database/</loc>
      <lastmod>2019-03-21</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>http://unidata.github.io/awips2/appendix/appendix-acronyms/</loc>
+     <loc>http://lesserwhirls.github.io/awips2/appendix/appendix-acronyms/</loc>
      <lastmod>2019-03-21</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>http://unidata.github.io/awips2/appendix/appendix-cots/</loc>
+     <loc>http://lesserwhirls.github.io/awips2/appendix/appendix-cots/</loc>
      <lastmod>2019-03-21</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>http://unidata.github.io/awips2/appendix/appendix-wsr88d/</loc>
+     <loc>http://lesserwhirls.github.io/awips2/appendix/appendix-wsr88d/</loc>
      <lastmod>2019-03-21</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>http://unidata.github.io/awips2/cave/cave-keyboard-shortcuts/</loc>
+     <loc>http://lesserwhirls.github.io/awips2/cave/cave-keyboard-shortcuts/</loc>
      <lastmod>2019-03-21</lastmod>
      <changefreq>daily</changefreq>
     </url>
